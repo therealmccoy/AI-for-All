@@ -1,0 +1,15 @@
+A modern city is a jungle out there, specially in a country like India. New structures come up every single day, most of them flouting the norms and regulations. They not only create stress on the already over-burdened civic resources, but also make the city or town traffic movement resources and plans, defunct.
+
+Each new building or structure means more people and vehicles being added to the locality or area. The traffic plans which were designed years ago, get redundant the moment they are put in place. In civic resources, they are the fastest depreciating ones.
+
+With an ever expanding city, even small towns would need to re-assess their traffic management resources like traffic lights, over a regular period of time. Doing so manually, is not only time-consuming but also very expensive.
+
+Now there is help available to re-assess the traffic management and resources, with the help of AI.
+
+ Mapillary, is an AI-powered street-level imagery platform. Instead of hiring a contractor to do surveying, one can click a large data-set of images through vehicle mounted cameras. Once uploaded to Mapillary, the images are processed with computer vision, a form of artificial intelligence, to automatically detect and analyse data such as traffic signs.
+
+ "Soon after the images had been uploaded to Mapillary, one is able to access the automatically detected traffic sign data. The data downloaded from Mapillary is compatible with ArcGIS, allowing the person to ensure that all traffic signs are visible, and to check whether they are in need of repair or replacement. With a full inventory, it is also possible to see where more or fewer signs may be necessary for a particular area."
+
+ Mapillary currently supports a total of 1,500 traffic signs from 100 different countries. A periodic GIS survey could help a lot in traffic management of cities. And thanks to AI, this is no more cumbersome.
+
+ Time for Traffic Resource Management As A Service.
