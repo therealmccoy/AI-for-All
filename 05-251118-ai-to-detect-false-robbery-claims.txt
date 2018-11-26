@@ -1,0 +1,23 @@
+Most of the artificial intelligence in the insurance world has been in personal insurance sector. While the majority of the problems are involved with general insurance.
+
+One such problem is fake robbery or theft report. And now AI is being deployed to detect it.
+
+"Developed by researchers from Cardiff University and the Charles III University of Madrid, the AI system “VeriPol” utilizes automatic text analysis and machine learning to identify false statements. The developers claim that VeriPol is quite accurate with its verification process, “with over 80% accuracy.”
+
+"The AI tool is capable of analyzing written statements to recognize patterns which are typically associated with false statements. Statements the AI looks out for include the kinds of items allegedly stolen, the descriptions given of the purported attackers, and even the “finer points” of an incident, the researchers explained.
+
+The researchers added that the common themes that indicate that a robbery claim is fake include a focus on the items stolen rather than the incident itself, lack of detail from the reporter suggesting fabrication, limited details about the attacker, lack of witnesses, and a failure to contact either law enforcement or a medical professional immediately after the incident."
+
+While this would seem like a very natural and common sense way to try to tackle the problem, the whole issue with any AI system, is not the algorithm but the data-set and in this case Spanish Police provided a data-set of only thousand reports.
+
+It is elementary that any AI system developed by such limited dataset would be inadequate, when a large volume of claims arrive at an insurer. 
+
+It is commons for now retailers and phone manufacturers to offer insurance with expensive handsets and more often than not, the loss of a mobile is reported as theft or robbery. Assessing a large volume of claims on an AI system developed with only thousand reports would not muster enough strength.
+
+Also, for a large and global insurer to deploy such an AI system would be very difficult, because people's behaviour and actions are different everywhere. For an efficient system, the system needs to be adequately localised, which could mean a complete re-tooling.
+
+Availability of data for such an experiment is also a major headache, with privacy laws in most country getting strict. Also, it raises the questions of ethics of using such data, even though details are anonymous.
+
+General Insurance industry would have to wait for some time to tackle fake claims with AI it seems.
+
+What could be better solutions? 
