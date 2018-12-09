@@ -1,0 +1,29 @@
+Any engineer can tell how a machine works. Only a great few can tell, why it failed, without looking into the hood.
+
+And when there is no hood to look into, what do you do?
+
+For the harbingers of the fourth industrial revolution of AI, sadly there is no hood to look into it. They are always groping the dark and does not know, why the machine or algorithm did not work.
+
+Moreover, these algorithms have been conceived with a very limited world view, by those who did them. Do they understand humans completely?
+
+How does a human learns to differentiates between a dog and a cat? Probably over a period of long time by observing them, we develop notions which include all the facets of both the animals which we have encountered. And thus we arrive at the conclusion.
+
+Thus when someone asks us, it is a cat or a dog, we can explicitly explain it. This is intelligence.
+
+Unless AI becomes explicit, it is not intelligent. However curated the dataset is, it cannot make the machine intelligent. And thus this renders AI to it's biggest fault, when something goes wrong, no one knows why it went wrong.
+
+The algorithm designed with a limited world view was right, the dataset was curated as far as possible; what went wrong then?
+
+No one knows, why?
+
+“Essentially there is this issue of what’s called inscrutability, which is, ‘I do it right, but you don’t quite know how I do it right.This has led to lots of fears about the use of machine learning. When they work, you’re happy. When they fail, you don’t know why they failed.”
+
+How one is going to trust a machine when one does not know, why it went wrong?
+
+Trust happens over a long period of time, when one sees an explicable behaviour. Fickleness does not bear trust.
+
+Unless there is an implicit trust between a man and her machine, it is still a very long way to go for AI and related technologies.
+
+We need to start from the 'first principle', how do humans behave, see the world and learn. 
+
+The first unit of any AI curriculum should be Psychology 101.
