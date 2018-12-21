@@ -1,0 +1,29 @@
+With great power, comes great responsibility. It has never been true than in these recent times, when Artificial Intelligence is poised to change everything, with which we interact, and above all, it is going to morph us.
+
+AI would be that industrial revolution which would do a lot to evolution of human race, than any other previous three revolutions.
+
+When nations and organisations are scrambling to form their AI strategies and ways to transform themselves, it is imperative that they have guiding principles on how to use this technology ethically and humanely.
+
+Google has formed a set of guiding principles which came in to being around when it was facing massive backlash over it's association with Pentagon on Project Maven. The whole world was astounded over Google's plan to use the AI technology it has developed in to something which could be utilised in killing people. If only, it had guiding principles readied earlier, it could have avoided a huge embarrassment. For an organisation which prided itself on "Do No Evil", it was like putting it's foot in the mouth. The company was later forced to drop out of it's association with Pentagon and killer "Project Maven".
+
+Every organisation can take a lesson from this episode and be ready with their "AI North Star" also. There is a lot to learn from guiding principles developed by Google itself.
+
+Here are some major points which every organisation should incorporate:
+
+1. Be socially beneficial. 
+
+" As we consider potential development and uses of AI technologies, we will take into account a broad range of social and economic factors, and will proceed where we believe that the overall likely benefits substantially exceed the foreseeable risks and downsides."
+
+2. Avoid creating or reinforcing unfair bias.
+
+3. Be built and tested for safety.
+
+4. Be accountable to people.
+
+"We will design AI systems that provide appropriate opportunities for feedback, relevant explanations, and appeal. Our AI technologies will be subject to appropriate human direction and control."
+
+5. Incorporate privacy design principles.
+
+Apart from these also, like Google, every company should first of all decide where they would not use AI, respective to their industry and domain.
+
+Along with "AI Strategy", unless the "AI Guiding Principles" accompany; it would always be glass half full as far as AI roadmap for an organisation is concerned.
