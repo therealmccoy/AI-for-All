@@ -1,0 +1,14 @@
+Wildfires have been a menace at many places in the world, specially in California, where they have assumed notorious proportions.
+Two Indian-origin high-school students studying at Cupertino, which is home to Apple's headquarters have developed an AI based  solution, which can predict the occurrence of wildfires, before take place.
+
+The device called "Smart Wild Fire Sensor" uses Google's open source software Tensor Flow, to combine images and weather parameters to predict the wildfire starts.
+
+Aditya Shah (17) and Sanjana Shah studying at Monsta Vista High School in California; took on this challenge as pat of Google's AI for social good. Aditya has himself experienced several wildfires in his close proximity, since moving here.
+
+Based on the moisture content in the leaves, dryness in the air, , its direction, ambient temperature and density of foliage in the area; the device would predict if the conditions cumulatively thus achieved is conducive to start a fire or not. 
+
+The duo have claimed a success rate of over 89 percent, however the challenge remains deploying this solution to wide forests spanning hundreds of thousands of hectares, where potential 'hotspots' could be virtually anywhere.
+
+The other challenge are also to classify a good dataset which could work over a vast forest area, examining dry leaves and twigs of all kinds. Currently Aditya and Sanjana's dataset has only about 500 good quality images.
+
+The students after receiving appreciation and accolades form Google, now plan to take this project to California Fire Department for further support.

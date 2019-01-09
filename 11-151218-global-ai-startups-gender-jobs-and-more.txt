@@ -1,0 +1,12 @@
+Fishes are never found in shallow waters. One has to always go deep, in order to thoroughly understand a subject or topic. We understand only when we take the things with entire perspective. We hear a lot bout AI and the the fourth industrial revolution coming, but what is the actual status? How it is growing, where it is growing, what is the 'total story'?
+Following up on our stories earlier of state of AI research in India and Europe being the phantom leader in AI, we present some more facts which would help you gain an overall perspective on the subject and shall make you more knowledgeable, with an overall perspective.
+
+
+
+From January 2015 to January 2018, active venture-backed AI startups in US increased 2.1x, while all active startups increased 1.3x. For the most part, growth in all active startups has remained relatively steady, while the number of AI startups has seen exponential growth. There are now almost 800 active venture-backed AI startups in US. The majority of these AI startups have developed AI systems. A minority use AI as an integral part of business, but do not develop the systems themselves.
+
+From 2013 to 2017, AI VC funding increased 4.5x in US, while all VC funding increased 2.08x. This is amply demonstrated in the rise in so called 'AI for X' and 'AI for Y' startups, across the globe. It is much easier to get dollars and attention of VC, if one has AI in the 160 character description of their startup.
+
+While ML is the largest skill cited as a requirement, deep learning (DL) is growing at the fastest rate — from 2015 to 2017 the number of job openings requiring DL increased 35x. AI skills are not mutually exclusive.
+
+On average, men make up 71% of the applicant pool for AI jobs in the U.S. Because the Machine learning requirement has the highest volume of applicants, the average is largely driven by Machine Learning job applicants. In addition to Machine learning, Deep learning and Robotics are more gender diverse, relative to other categories. The data are by skill required, which is not mutually exclusive. The number of applicants does not imply hires or overall representation in industry.

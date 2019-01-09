@@ -1,0 +1,23 @@
+While everyone is excited about AI, it's potential impacts on every industry and how it is going to transform our lives completely, most of the organisations who could be part of this revolution are still unsure of how to get themselves involved and be up and start running. More so when the 'real advice' is far less to find, compared to all the din and noise and mostly hype.
+
+Andrew Ng, Chairman and CEO now of Landing AI and most renown researcher in the field of AI has some real practical implementable advice for organisations, we have produced the most important points here in a 101 style.
+
+This is how you can lead your organisation too in to the AI revolution and be part of it. 
+
+1. Execute pilot projects to gain momentum
+For traditional organisations who have not been at the fore-front of cutting-edge technology it is imperative that they first dip their hand in the water, rather than trying to immerse themselves in by jumping from a dive-board. While AI is touching each and every component of business imagined, the talent to advise and work on still very limited. And hence the need to go slow and steady.
+Start small. Tiny is good. Don't do it for sake of being fancy called an 'AI Organisation'. Whatever you do, have a business objective attached to it and above all the outcome should be measurable.
+Rinse and repeat. If you do this well, gradually over a period of no time, your organisation would really become an AI company.
+
+2. Build an in-house AI team
+This is one critical thing which cannot be outsourced except for the courtship period. This we are talking about the fourth industrial revolution. An internal small team could be set-up, then sent for training (online is best) and apprenticeship on AI projects, while company supporting all this while. An internal team is the best one to understand and then attend to company's AI needs. Work is fast, smooth and in the long run much more cost-effective. Above all, you have build the AI capability in some time.
+
+3. Provide broad AI training
+Just building a technology AI team is not sufficient to be called an 'AI Company'. 'AI' is a mindset and it has to be an all pervasive one across the organisation. It calls for training for the entire organisation in AI, broad and deep depending on the role and work profile of employees. After the training, employees should be able to think 'AI First' ie analysing everything from the AI perspective. Unless all hands think in alike manner (AI manner), a successful AI company cannot be built.
+
+4. Develop an AI Strategy
+While the leadership works on transforming the company to an 'AI Company', it is very important to have short,medium and long terms objectives for the company in AI landscape. While AI is still in a state of flux and new developments are happening, after some familiarisation, an AI strategy for the company should be established with periodic assessment over a half-yearly absis and if the needs arise, then revising the same. Instead of blidly following each and every new shining development, the strategy should develop on how the company can develop itself to a leadership position, riding the AI revolution. And then focus on building unique advantageous positions on those lines. Lines which are difficult to cross by competition, as the time grows.
+
+5. Develop internal and external communication
+AI is not a technological cycle which happens once a decade, here we are talking about the fourth industrial revolution in the history of mankind. Hence it requires a coherent and well-balanced interaction with all the stakeholders. Future belongs to those who are strong and innovative with AI, and of your company is along the right path, unless it is communicated well enough, it will go down the drain. All the major stakeholders of the company, Investors, Customers,Talent, Employees and Regulatory should be engaged meaningfully and updated regularily on what and where the company stands in terms of AI.
+
