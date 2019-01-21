@@ -1,0 +1,16 @@
+While technologists and policymakers have begun to discuss AI and applications of machine learning more frequently, public opinion has not shaped much of these conversations.It is thus vital to have a better understanding of how the public thinks about AI and the governance of AI. Such understanding is essential to crafting informed policy and identifying opportunities to educate the public about AI’s character, benefits, and risks.
+
+This report, looks at the results from an extensive look at the American public’s attitudes toward AI and AI governance. It is based on findings from a nationally representative survey conducted by the Center for the Governance of AI, housed at the Future of Humanity Institute, University of Oxford, using the survey firm YouGov. The survey was conducted between June 6 and 14, 2018, with a total of 2,000 American adults (18+) completing the survey. 
+
+1. Americans express mixed support for the development of AI. After reading a short explanation, a substantial minority (41%) somewhat support or strongly support the development of AI, while a smaller minority (22%) somewhat or strongly opposes it.
+
+2. The overwhelming majority of Americans (82%) believe that robots and/or AI should be carefully managed. This figure is comparable to with survey results from EU respondents.
+
+3. Americans express mixed support for the U.S. investing more in AI military capabilities and for cooperating with China to avoid the dangers of an AI arms race.
+
+4. The median respondent predicts that there is a 54% chance that high-level machine intelligence will be developed by 2028. We define high-level machine intelligence as when machines are able to perform almost all tasks that are economically relevant today better than the median human (today) at each task.
+
+5. There are more Americans who think that high-level machine intelligence will be harmful than those who think it will be beneficial to humanity.
+
+6. Facebook is least trusted organisation by Americans in matter of AI.
+

@@ -1,0 +1,41 @@
+Artificial Intelligence as we have written over past one year or so, is getting more and more pervasive in our daily lives. Some of these tools have become so ingrained, which was alien to even wonder and think about, even a few years back. Smart speakers and digital voice assistants are those AI tools.
+
+In last couple of years, AI powered Chatbots and customer representative calls have changed the way we interact with most of the business.
+
+Even educational control systems, which revise and upgrade their syllabi and teaching methodology not early than every two decades have woken up. Even in India, it has been at least announced that even high school students would be taught AI.
+
+Research work and majority of AI startups still dominate from China, US and Europe, there are few handful of Indian Startups who have embarked on a journey which could over a period of time could have global impact.
+
+Here we present those 5 Indian AI Startups of global impact:
+
+1. Education - Embibe - Personalized Learning Outcomes for everyone through the world's best Artificial Intelligence platform in Education
+
+The bane of education is that it treats everyone with the same yardstick. Some are early risers and some are late bloomers, but the rigid syllabi and schooling system means that both these kinds are treated the same. Teachers saddled with both academic and official work are hard burdened to provide individual feedback. Here AI can revolutionise the current education system. By transforming the pedagogy based on every individual pupil's ability, adaptability and progress.
+
+Embibe is aiming to build a learning outcome AI stack, which could help each individual student realise her potential. After all, education should work for all. Behavioural traits which are genetic and environment oriented play the biggest role in a pupil's performance. And are the most neglected one in current pedagogy system, due to inherent big student:teacher ratio. Embibe aims to make a difference through deploying artificial intelligence and machine learning .
+
+2.Service - Haptik - Welcome to the world’s largest Conversational AI Platform
+
+The biggest in-the-face everyday AI related encounter we have are the chatbots. If you ask for help on any leading business website or app, the agent which you are encountering is a virtual one, more often than not an AI powered. While in it's infancy, Chatbots were built in a much traditional manner (binary) one can say and touted as AI. Now, slowly the real AI coming into place. Chatbots are single biggest AI tool which could touch every potential business. A virtual AI agent present 24X7 which could solve customer's grievance has the power to increase customer loyalty many times over. No loyalty program can match the joy of customer satisfaction.
+
+Haptik builds chatbots over the entire customer engagement string. From acquisition to engagement, service and finally understanding customer needs. It is a full stack platform for business. Right from bot builder, dashboards, analytics, training and CRM integrations. It is being used by more than 50 Fortune 500 companies.
+
+3. Health - Sigtuple - AI + Medical Data = Smart Screening
+
+How big an impact which AI and ML could have on healthcare domain could be gauged by the Amazon's foray into healthcare with the partnership of Berkshire Hathaway. The venture which is a non-profit is being led by renowned surgeon and author, Atul Gawande. Like Hippocratic oath, standards are limited to textbooks in healthcare domain. Every single medical entity be it a small clinic or large hospital each have their own standards and operating procedure, leaving the patient at the mercy of almighty, if she decides to work with many healthcare service providers.Each entity has it's own data silos, which apart from patient's inconvenience, also increases the healthcare costs dramatically.
+
+Diagnostics and Screening which is the largest allied healthcare service is the domain which SigTuple has chosen. A sector which has seen hardly any innovation other than the mushrooming of large chains in organised retail format and a greater customer service quotient is ripe and apt for disruption. SigTuple builds intelligent screening solutions to aid diagnosis through AI-powered analysis of visual medical data. They have termed their platform Manthana. In a world where screening and diagnosis generally happens only when the patient is admitted as an in-patient or in diagnostics clinics which take almost 8 to 10 hours to generate a report, SigTuple can do it in a manner of 5 minutes. What could be termed as "Proactive Diagnostics".
+
+4. Commerce - Niki.ai - Making online transactions as simple as talking to a friend.
+
+The biggest casualty in the online world of AI would be websites. There would not be any more surfing, when a voice assistant powered by AI could figure you out intelligently and performs your instructions just as you would have wanted, both literally and figuratively. And like a true friend, the relationship gets better only over a period of time. why would then someone surf websites, when one can cruise. Hyperlocal is the holy grail which thousands tried and everyone failed, may be AI would correct that.
+
+Niki.AI is an AI driven commerce platform which takes care of almost all the daily commerce related activities like recharge, booking movies tickets, cabs and hotels along with bill payments. While the dominant voice assistants would always be there, as the fourth industrial revolution blooms, localised AI driven commerce platforms would rule the roost, which could deliver the offline experience online. Its like having the best of both worlds. 
+
+5. Robotics - GreyOrange - Intelligent robotics for warehouse and supply chain automation.
+
+The first thing which comes to our mind whenever someone utters artificial intelligence are the robots. Robots are already being deployed in all means and ways possible, including by giants like Amazon and Walmart and hence the fear that they would displace million of jobs in coming future is not an ominous warning any more but hard truth, smack in the face. And its not only the low-skilled jobs at risk but also the semi-skilled ones. There are now robotic bar-tenders and waiters already in action.
+
+GreyOrange robotics which is an Indian company, no more since it got itself registered at Singapore is the most famous Indian robotic company . It builds warehouse automation solutions utilising hardcore hardware and complex software, including decision science. In India it works with major companies like Flipkart and Mahindra Tractors.
+
+PS : The above five startups were chosen on the basis of their relative global impacts in coming future, going by the domain on which they have been working. We intend to make this a quarterly review and feature other Indian AI startups which have the potential to be global players.
