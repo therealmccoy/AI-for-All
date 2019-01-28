@@ -1,0 +1,28 @@
+Scientists and policymakers converged at MIT on Tuesday, 22nd January 2019 to discuss one of the hardest problems in artificial intelligence: How to govern it.
+
+The first MIT AI Policy Congress featured seven panel discussions sprawling across a variety of AI applications, and 25 speakers — including two former White House chiefs of staff, former cabinet secretaries, homeland security and defense policy chiefs, industry and civil society leaders, and leading researchers.
+
+Their shared focus: how to harness the opportunities that AI is creating — across areas including transportation and safety, medicine, labor, criminal justice, and national security — while vigorously confronting challenges, including the potential for social bias, the need for transparency, and misteps that could stall AI innovation while exacerbating social problems in the United States and around the world.
+
+“When it comes to AI in areas of public trust, the era of moving fast and breaking everything is over,” said R. David Edelman, director of the Project on Technology, the Economy, and National Security (TENS) at the MIT Internet Policy Research Initiative (IPRI), and a former special assistant to the president for economic and technology policy in the Obama White House.
+
+Added Edelman: “There is simply too much at stake for all of us not to have a say.”
+
+Daniel Weitzner, founding director of IPRI and a principal research scientist at the MIT Computer Science and Artificial Intelligence Laboratory (CSAIL), said a key objective of the dialogue was to help policy analysts feel confident about their ability to actively shape the effects of AI on society.
+
+“I hope the policymakers come away with a clear sense that AI technology is not some immovable object, but rather that the right interaction between computer science, government, and society at large will help shape the development of new technology to address society’s needs,” Weitzner said at the close of the event.
+
+Tuesday’s forum also began with a primer on the state of the art in AI from Antonio Torralba, a professor in CSAIL and the Department of Electrical Engineering and Computer Science (EECS), and director of the MIT Quest for Intelligence. Noting that “there are so many things going on” in AI, Torralba quipped: “It’s very difficult to know what the future is, but it’s even harder to know what the present is.”
+
+“Government entities need to be transparent about what they’re doing with respect to AI,” said Jim Baker, Harvard Law School lecturer and former general counsel of the FBI. “I think that’s obvious.”
+
+Carol Rose, executive director of the American Civil Liberties Union’s Massachusetts chapter, warned against over-use of AI tools in law enforcement
+
+“I think AI has tremendous promise, but it really depends if the data scientists and law enforcement work together,” Rose said, suggesting that a certain amount of “junk science” had already made its way into tools being marketed to law-enforcement officials. Rose also cited Joy Buolamwini of the MIT Media Lab as a leader in the evaluation of such AI tools; Buolamwini founded the Algorithmic Justice League, a group scrutinizing the use of facial recognition technologies.
+
+“Sometimes I worry we have an AI hammer looking for a nail,” Rose said.
+
+“Our goal is to see the interconnection among these fields … but as we do, let’s also ask ourselves if ‘AI governance’ is the right frame at all — it might just be that in the near future, all governance deals with AI issues, one way or another,” 
+
+“The technologies that are shaping the world’s future are being developed today. We have the opportunity to be sure that they serve society’s needs if we keep up this dialogue as way of informing technical design and cross-disciplinary research.”
+
