@@ -1,0 +1,17 @@
+Amazon Rekognition is the name of the commercial face analysis AI service which Amazon sells to law enforcement agencies across United States.
+
+The Day 1 company's hubris which is on Cloud 9 made it to refuse to submit it's technology to America's National Institute of Standard and Technology for testing and authentication. While in competitive world of cloud and AI computing in general scenario, this could be understood but where the lives of families and individiuals are at stake, Amazon could have relented as few other companies did. After all, majoroity of the revenue of Amazon is still derived form the same American people, whom it AI systems are going to police.
+
+In this world of AI prevalence, how can a company be trusted that it's technology and AI systems are fool proof and if any lacunae are found, it would work on them on it's own? Who is going to certify the technology is foolproof enough to be deployed tin order to take life-and-death questions?
+
+In a silly defence, Amazon says that the technology which was used to test it's system consists of 'facial anaylysis' and not 'facial detection' system, which actually the company employs in Rekognition. While 'face detection' system detects whether the image or video has a face; the 'facial analysis' system, identifies it's characteristics and attributes like ethinicity and may be even emotion. It is elementary that, 'facial analysis' cannot happen, unless the AI system detects a face through 'facial detection'. A face is always detected first and then only it can be analysed, right?
+
+So, if a 'Face Analysis' system was used to test Amazon Rekognition, it already incorporates the best of (rather right) technology of face detection. 
+
+Unlike Microsoft and IBM, Amazon is not willing to get it's technology audited for the valid concerns which people have, citing customer confidentiality. The other have accepted the test results, and then went back to their labs and improved the faults in their system and came back to show, what they have done better. Amazon fails to listen. 
+
+The Day 1 company, when moves out of it's walled kindergarten, would realise that most of America is also now it's customer. 
+
+If Amazon Rekognition wrongly identifies an Amazon Prime customer, which leads to loss of liberty or life; what kind of customer confidentiality we are talking about here? An individual's dignity and liberty is more important or frivolous customer confidentiality, well, you don't know that, unless you are willing to move beyond Day 1 right?
+
+“Technology like Amazon’s Rekognition should be used if and only if it is imbued with American values like the right to privacy and equal protection,” said Senator Edward J. Markey, a Massachusetts Democrat who has been investigating Amazon’s facial recognition practices. “I do not think that standard is currently being met.”
