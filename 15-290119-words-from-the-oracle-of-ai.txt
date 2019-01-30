@@ -1,0 +1,16 @@
+No one knows the current state of artificial intelligence than the venture capitalist Kai-Fu Lee. He has so far funded 140 AI startups. These startups include ten unicorns and one decacorn. He is also called rightly the Oracle of AI. He has recently written a new book "AI Superpowers: China, Silicon Valley and the New World Order."
+
+1. Most people have no idea about what's coming next in AI. Many people have the wrong idea.
+2. AI would change the world more than what electricity managed to do.
+3. In the earlier days of AI, computers were given specific instructions, not the computer is just fed data and is asked to learn on it's own. It's called Deep Learning.
+4. Deep Learning is not intelligence but result of brute power of computing over huge datasets.
+5. AI would ensure that there are no 'left behinds' or back-bencher in the classroom.
+6. Chinese AI is better than Silicon Valley and SV has not yet risen to this fact.
+7. China's sole biggest advantage is the data which it collects. More the data, better the AI.
+8. Chinese are not too much bothered about their data privacy. More than a billion Chinese are doing almost everything on their mobile phone.
+9. AI will replace those jobs which are repetitive, not only blue-collar ones but also white-collared jobs.
+10. As much as 40 percent of jobs in the world are displace-able by AI.
+11. AI can do only one specific task very well.
+12. AI is not general intelligence.
+13. On why AGI or Artificial General Intelligence may never happen : "Because I believe in the sanctity of our soul. I believe there is a lot of things about us that we don't understand. I believe there's a lot of love and compassion that is not explainable in terms of neural networks and computation algorithms. And I currently see no way of solving them. Obviously, unsolved problems have been solved in the past. But it would be irresponsible for me to predict that these will be solved by a certain timeframe."
+
