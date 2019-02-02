@@ -1,0 +1,123 @@
+Putin wants AI strategy, Lead Applied ML job at Apple, Little Sophia the STEM learning robot and more...
+
+Putin Orders Moscow to Create National Strategy on AI
+
+Context:
+
+China and US have been far ahead in AI revolution, and coming close are many smaller countries of Europe also. It’s time for the super-power, even though it might be slightly late for it, to come back.
+
+Why:
+
+Russia has always prided itself for it’s technological prowess and engineering capabilities, but in recent times of ‘fourth industrial revolution’, it has been found lacking.
+
+While hacking and fake news can help turn the tide of one election, but now it has been proved that AI can turn the tides of traditional hacking and is far more superior in both offense and defense, than the human powered hacking and meddling.
+
+Unless, Russia acquires these capabilities, it would fall short of even credible hacking.
+
+What:
+
+A national strategy after a wide comprehensive study of needs and present capabilities would, help create a roadmap and timeline for being back in the game. Also, this would take into perspective of what other nations have been doing or already achieved.
+
+The national AI strategy would serve as a benchmark.
+Job at Apple : Head of Data Science & Applied Machine Learning
+
+Context:
+
+It is important to track the big 4 or GAFA, if one has to be abreast of latest happenings in technology. An official job posting tells almost everything which the company might would like to put in public, about what they are doing and also gives hint to what they might be doing in future. They are most probably not going a big tangent of what they put on job postings.
+
+Why:
+
+Head of Data Science & Applied Machine Learning (Payments & Commerce Analytics group) is an important position in Apple. A look at the job posting would give the readers a clear perspective in terms of what skills and qualifications, they need to acquire, if they aspire to be a top data honcho in payments and commerce field.
+
+What:
+
+The job posting has been put up on 30th January 2019 and is based out of Cupertino.
+Little Sophia by Hanson Robotics - a new kind of STEM, AI and coding learning companion for ages 7-13.
+
+Context:
+
+It is imperative that kids are initiated to AI and coding at an early stage, so that they understand the technology, with first hand use, when they are staill starting to make the sense of the world.
+
+World over, school boards are initiating AI curriculums. While teaching would help, nothing beats practice.
+
+Why:
+
+In today’s world where education is not bounded by four walls, a roof and a dis-interested tutor; parents and kids can devise their own learning path. All it needs is a curiosity on the part of the pupil. With all pervasive AI world coming soon, the sooner the kids learn the fundamentals, better prepared they are.
+
+Instead of smartphones and gaming consoles, a robotic companion which helps keep practise coding and AI is a brilliant gift, something which would enable her to just ‘take off’.
+
+What:
+
+    Little Sophia is the little sister of Sophia and the newest member of the Hanson Robotics family. She is 14” tall, and your robot friend that makes STEM, coding and AI a fun and rewarding adventure for kids 7-13 years old, especially girls. 
+
+    Little Sophia can walk, talk, sing, play games and, like her big sister, tell jokes. With Little Sophia's software, and included tutorials through Hanson's AI Academy, she is a unique programmable, educational companion for kids, inspiring children to learn through a safe, interactive, human-robot experience. Kids, educators and even Sophia the Robot fans, regardless of age, will find Little Sophia irresistible!  
+
+Warning! Everything Is Going Deep: ‘The Age of Surveillance Capitalism’
+
+Context:
+
+In today’s world, commerce is not driven by goods and services, it is being driven by data. If one does not have credible and massive data-sets, surviving in commerce is difficult.
+
+And all this while, this data is being collected through without consent of those who are spied upon night and day, by technology companies, through devices and applications.
+
+Why:
+
+People need to understand that in today’s world, ‘shinier’ does not means ‘better’. It usually means ‘murkier’. The better the device or app promises, the user is opening more and more of it’s life unknowingly and submitting themselves as a ‘data guinea pig’.
+
+The questions which is also important is do we really need such devices and apps?
+
+Why have we become slaves of technology, and is this the right way to live?
+
+Billions are on 24X7 surveillance for the benefit of so very few. Is it the kind of dystopian society, we want to walk-in?
+
+What:
+
+    “Surveillance capitalism, unilaterally claims human experience as free raw material for translation into behavioral data.
+
+    Although some of these data are applied to service improvement, the rest are declared as a proprietary behavioral surplus, fed into advanced manufacturing processes known as ‘machine intelligence,’ and fabricated into prediction products that anticipate what you will do now, soon and later.
+
+    Finally, these prediction products are traded in a new kind of marketplace that I call behavioral futures markets.
+
+    Surveillance capitalists have grown immensely wealthy from these trading operations, for many companies are willing to lay bets on our future behavior.” 
+
+This Time Humans Triumph Over Robots As They Take Back Hotel Jobs
+
+Context:
+
+As we usher into the AI world, it is important to assess the evolving fluid situation from a 360 degree perspective. This also includes the shortfalls of the technology and where an edge can be found over in humane terms, so that humans always rule this planet and not robots.
+
+Why:
+
+There has been a lot of fear mongering on how AI would make almost every job extinct. The Luddites have yet to study what actually AI is and how it is being implemented, it’s a different matter. But when a common man is asked about AI, she sees robots and her job loss.
+
+It is important to change this perception, that neither all is lost; nor everything is going to be conquered by AI.
+
+The Frankenstein can be controlled, this time.
+
+What:
+
+    A Japanese hotel that became known as the "world's first robot hotel" three years ago is powering off many of its robots. It turns out that guests prefer humans to handle their requests.
+
+    The Henn-na Hotel was the world's first robot hotel, even got that title from "The Guinness Book Of World Records" - a robot concierge, robot porters and entertainers and robot vacuums. 
+
+APPLE DINGS APP AFTER FACEBOOK USED IT TO CONDUCT SHADY RESEARCH ON USERS
+
+Context:
+
+Facebook has earned record profits of $9 billion and is the fastest company to reach $50 billion revenue mark in the history.
+
+All at the cost of it’s users privacy.
+
+Why:
+
+Because we are so addicted to technology to fill vacuum in our lives, that we are not willing to make self corrections to our habits. While as an individual, there have been many disturbing stories, as how the technology has destroyed lives; but still whenever we read such stories or articles, we take it ‘collectively’ and alas that we are ok and it’s someone else’s problem.
+
+Slowly these technology companies are making us go down into a pit, from which we are going to find it increasingly difficult to come out.
+
+What:
+
+    Facebook paid users ages 13 to 35 up to $20 per month to install the iOS or Android “Facebook Research” app and use the program to sell their private information back to the social media company, TechCrunch reported Tuesday. Apple blocked the app before the tech giant could voluntarily remove iOS.
+
+    Facebook went to extraordinary lengths to gather the information, the report notes. It asked users of the “Project Atlas” to screenshot their Amazon order history page and used beta testing services Applause, BetaBound and uTest to cloak its involvement. The project began in 2016. Apple blasted Facebook for its actions.
+
+PS: Please send in your suggestions and feedback, through comments. Thanks so very much for reading.
