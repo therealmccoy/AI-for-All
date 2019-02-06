@@ -1,0 +1,181 @@
+U.S. Army launches AI Task Force at CMU
+
+Context:
+
+Future war would be fought both on the field and off the field, using AI in it’s various forms. World over, the defence departments are rising to the paranoia of missing out and left in the cold, with only ‘traditional’ weapons to protect themselves with. Right from detection to elimination, there would not be a sphere left, where AI would not touch tomorrow’s war.
+
+Why:
+
+Just like the MTCR of Cold War era, the day is not a far when the AITCR comes into effect. US lawmakers are already thinking about promulgating such a regulation, in order to counter Chinese rise in AI.
+
+In such cases, the military who has strong ties and partnership with academia (obviously, academia of that country has to be strong in AI) would be able to strengthen itself for future war and related scenarios. The world would soon come back to ‘sowing your own seed’ and ‘growing your own food’ as far as AI use in military technology is concerned.
+
+What:
+
+    This past week, Carnegie Mellon University expanded its long-standing collaboration with the U.S. Department of Defense with the launch of the United States Army’s Artificial Intelligence Task Force. It will be based out of the National Robotics Engineering Center (NREC) in Lawrenceville.
+
+    With the NREC as its base, the Task Force will be consist of several small teams of military personnel that will develop prototypes and do long-term research under the direction of the Army Futures Command.
+
+    The location was chosen to allow the Army to collaborate closely with Carnegie Mellon, as well as with other universities and companies working on AI in the Pittsburgh region. 
+
+Microsoft warned investors that biased or flawed AI could hurt the company’s image
+
+Context:
+
+Microsoft has already realised the reality, that in following the technology world’s motto of “Move Fast and Break Things”, more often than not, hands get burnt. It’s stint of controversy with AI started with Tay, it’s AI bot on Twitter and since then, the company with largest number of AI researchers on board has it's fair share of trouble.
+
+When so much at stake on a single technology, it is prudent to warn the shareholders and investors, of having all eggs in one basket.
+
+Why:
+
+Poor performance (in terms of accuracy or bias) would cast a tall shadow on all the other realms, in which the company has been applying AI & ML. Also, it is a frank submission from the world’s largest researcher, that they do not completely understand, how the technology may unfold actually; and there would be errors and omissions along the way.
+
+What:
+
+    AI algorithms may be flawed.
+
+    Datasets may be insufficient or contain biased information. Inappropriate or controversial data practices by Microsoft or others could impair the acceptance of AI solutions.
+
+    These deficiencies could undermine the decisions, predictions, or analysis AI applications produce, subjecting us to competitive harm, legal liability, and brand or reputational harm.
+
+    Some AI scenarios present ethical issues.
+
+    If we enable or offer AI solutions that are controversial because of their impact on human rights, privacy, employment, or other social issues, we may experience brand or reputational harm. 
+
+U.S. Smart Speaker Installed Base Rose to 66 Million in 2018 with Amazon Holding 70% Share 
+
+Context:
+
+The most dominant and in-face demonstration of AI technology has been in terms of voice recognition and voice assistants. These include both the voice assistants, available on phone and those which are available as speakers. Though the use of smart speakers is largely restricted to developed countries, but every technology pehomena has fanned out from there only.
+
+Why:
+
+In one way, how comfortable a common man is with adopting AI technology in her routine life, can be gauged by tracking the voice assistant speaker sales. These are the first, stand alone AI devices, made for home (family) use.
+
+What:
+
+    CIRP Quarterly smart speaker tracking says U.S. installed base of users rose to 66 million in 2018 up from 36 million in 2017
+
+    Amazon Echo still commands 70% U.S. smart speaker market share when compared to 24% for Google Home and 6% for Apple HomePod, however, this analysis does not include third-party and off-brand smart speaker ownership
+
+    35% of U.S. smart speaker households owned multiple devices in 2018 up from 18% in 2017
+
+Chinese organisations make up 17 of the top 20 academic players for AI patents and 10 of the top 20 in AI-related scientific publications.
+
+Context:
+
+China is unarguably the leader in AI currently. It is not only the Chinese corporations that are leading that revolution with BAT consortium, but it is the Chinese academia rather, which has helped precipitate the Chinese AI revolution. After all, if there is no proper research and development infrastructure available in local research institutions, it is very difficult to produce both the people who are ready with technology implementation, as well as tried and tested technology.
+
+Why:
+
+For any country to lead any technology revolution, it always starts with it’s academic institutions. This is where the foundation is laid, and future is caste both in terms of work and people. Stronger the academia of a country is in a technology, it is elementary that the country would lead in that domain. China has been leading the AI revolution, from it’s schools and shows the world, how to go about being a technology leader.
+
+What:
+
+    Chinese organisations make up 17 of the top 20 academic players for AI patents and 10 of the top 20 in AI-related scientific publications. 
+
+    Chinese organisations are particularly strong in the emerging technique of deep learning, with the Chinese Academy of Sciences (CAS) on top with more than 2,500 patent families and more than 20,000 scientific papers published on AI, the report said. Moreover, CAS has the largest deep learning portfolio, with 235 patent families.
+
+    Song Hefa, deputy dean of the Intellectual Property School at CAS, said one of the major reasons for CAS’s success in AI patents has been “vigorously carrying out IP [intellectual property] training and information. Since 2008, 16,000 people have been trained and at the end of 2016, CAS had 1,891 people engaged in IP management, transfer and service.” 
+
+    Overall, “Chinese organisations are consolidating their lead, with patent filings having grown on average by more than 20% per year from 2013 to 2016, matching or beating the growth rates of organisations from most other countries,” the WIPO report said.  
+
+Google adds two impressive features to Android phones for people with hearing loss
+
+Context:
+
+There would be more than 900 million people with hearing disability in the world by 2055 according to WHO. Sound pollution in cities is as dangerous phenomena as air pollution and persistent exposure to unwarranted noises for a long period, brings hearing disabilities of varied scale, in all of us.
+
+Why:
+
+Technology is of use only when it could help those, who are unable to help themselves. Accessibility through technology is perhaps the biggest yardstick, how a company views it’s technology among the ‘equals’ and ‘not equals’. Those who work on bridging the gap, between the ‘equals’ and ‘not equals’ have a higher standing among ‘pioneers’.
+
+What:
+
+    The Live Transcribe app, for example, takes real-world speech and turns it into real-time captions using the phone’s microphone, while Sound Amplifier helps filter, augment and amplify sounds in the environment around the user. It increases quiet sounds while not over-boosting loud sounds, and it can also be customized, with sliders and toggles that can be used for noise reduction to minimize distractions in the background. 
+
+JP Morgan is in the middle of a 'massive process' of cleaning up thousands of databases
+
+Context:
+
+The innovation in AI would be lead by those having right kind of data. This implies not everyone is actually ready for AI revolution. There are entities which do not have sufficient data to train models, and then there are entities which have data built for sole purpose of a database and specific uses and they need to be retro-fitted for AI use.
+
+Why:
+
+Organisations world over need to look at their databases and it’s architecture and figure out with the help of AI and business experts, whether the data is going to be relevant for future use also?
+
+Rather, is your data future proof?
+
+Most often than not, it is not, and every single day passing by is only adding to the misery. Time to begin, is now.
+
+What:
+
+    At JPMorgan, the largest US bank, there are thousands of databases that still need to be cleaned and made usable before AI or machine-learning techniques can be fully unleashed, according to the copresident Daniel Pinto.
+
+    Chart that workload across dozens of large banks, not to mention investment firms, and the scale of the work ahead for the industry is a staggering reminder that the robot revolution is still years away.
+
+One Of The Biggest At-Home DNA Testing Companies of US Is Working With The FBI
+
+Context:
+
+DNA profiling is one technology which could save potentially millions of life. If available as a cost-effective option, everyone should go for it. But like as we have seen in past few years, the problem is not adopting the new technology, the problem lies in trust. Whom do you trust?
+
+Why:
+
+Usually, there are no ethics in business. In today’s world where every second we are throwing ourselves at the mercy of large corporations, that they treat us and our data which we have entrusted to them respectfully; who owns the data is a pertinent question?
+
+Is it the user or the company?
+
+What:
+
+    Family Tree DNA, one of the largest private genetic testing companies whose home-testing kits enable people to trace their ancestry and locate relatives, is working with the FBI and allowing agents to search its vast genealogy database in an effort to solve violent crime cases, BuzzFeed News has learned.
+
+    Federal and local law enforcement have used public genealogy databases for more than two years to solve cold cases, including the landmark capture of the suspected Golden State Killer, but the cooperation with Family Tree DNA and the FBI marks the first time a private firm has agreed to voluntarily allow law enforcement access to its database.
+
+PRISONS ACROSS THE U.S. ARE QUIETLY BUILDING DATABASES OF INCARCERATED PEOPLE’S VOICE PRINTS
+
+Context:
+
+Currently law enforcement are one of the largest customers of AI technology, both directly (military, police) and indirectly (like, spy agencies). While there are no code of conduct laid out for those who lay down the code of conduct for rest of the humanity, what happens of this world, when AI technology is completely ingrained in society, depends on their conduct and behaviour with the technology.
+
+With great power, comes great responsibility. But this has been always found lacking in real world.
+
+Why:
+
+Just because we can, does not mean that we should?
+
+Prisons are meant for reform. When they try to force means and ways, which could harm the sovereignty and dignity of the individuals; the very whom, they have to reform, are they reforming or making them more hardcore?
+
+Does such acts of oppression would make society more safe or more dangerous because of the breach of trust by prisons?
+
+What:
+
+    “I was contemplating, ‘Should I do it? I don’t want my voice to be on this machine,’” he recalls. “But I still had to contact my family, even though I only had a few months left.”
+
+    So when it was his turn, he walked up to the phone, picked up the receiver, and followed a series of automated instructions. “It said, ‘Say this phrase, blah, blah, blah,’ and if you didn’t say it clearly, they would say, ‘Say this phrase again,’ like ‘cat’ or ‘I’m a citizen of the United States of America.’” Dukes said he repeated such phrases for a minute or two. The voice then told him the process was complete.
+
+    “Here’s another part of myself that I had to give away again in this prison system,” he remembers thinking as he walked back to the cell.
+
+Tech Is Splitting the U.S. Work Force in Two
+
+Context:
+
+The world have been always divided in to ‘haves’ and ‘have nots’. Every rising and revolution this world has seen has been due to the income inequality in the society. Technology was supposed to solve the problem, but it has only widened the gap.
+
+The ‘haves’ have no inclination or will to improve the lot of ‘have nots’.
+
+Impending AI revolution’s greatest doomsday prospect is billions of job less people.
+
+Why:
+
+When there is a hammer in the hand, everything looks like a nail. The ‘wisdom’ to use hammer never comes along the instruction label. Those who build technology, leave the ‘wise’ use of their technology to whom it is sold and go back to home to sleep.
+
+Is not it the work of the creator to ensure that, he does not create any nefarious use of the technology, which could spell doom for fellow human beings?
+
+If the creator lacks this ‘wisdom’, is not the creator the destroyer?
+
+What:
+
+    Automation is splitting the American labor force into two worlds. There is a small island of highly educated professionals making good wages at corporations like Intel or Boeing, which reap hundreds of thousands of dollars in profit per employee. That island sits in the middle of a sea of less educated workers who are stuck at businesses like hotels, restaurants and nursing homes that generate much smaller profits per employee and stay viable primarily by keeping wages low. 
+
+PS: Thank you so very much for reading. If you have not yet subscribed, please do so.
