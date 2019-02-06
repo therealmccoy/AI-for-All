@@ -1,0 +1,130 @@
+image: Controlled Nuclear Fusion experiments at Rochester University
+
+In 2018, AWS delivered most of Amazon's operating income
+
+Context:
+
+It is the sign of the times to come, the impending fourth industrial revolution. AWS which is now almost about Machine Learning and hosts a variety of such services for every possible application, is being used by both public and private entities world over.
+
+Machine Learning is getting more and more pervasive, and the proof lies in the pudding and it is clear now, that pudding is selling like hot cake.
+
+Why:
+
+This would be second re-invention of Amazon, which first launched AWS as primarily for cloud data services and is now a full-fledged automated cloud computing and machine learning integrated solution.
+
+The competitors, notably Microsoft would be surely watching closely. Amazon is already under host of accusation on it’s policy of not submitting it’s Machine Learning products used by law enforcement entities, to public institution scrutiny.
+
+What:
+
+    For the full year, Amazon's net income reached $10.1 billion, or $20.14 per diluted share, compared with a net income of $3 billion, or $6.15 per diluted share, in 2017. Net sales increased 31 percent to $232.9 billion, compared with $177.9 billion in 2017.
+
+    AWS nudged out Amazon's North American e-commerce unit to deliver the most operating income for 2018. AWS had operating income of $7.3 billion for 2018 to Amazon North America's $7.27 billion. The catch is that it took Amazon North America $141.4 billion of sales for that operating income and AWS needed $25.65 billion. 
+
+India emerging new target for patent filing in AI: WIPO
+
+Context:
+
+India is still in very nascent stage considering the public institution’s participation in AI research. Among a study of research papers published on AI of all nations, India figured lowly, even way behind some European nations.
+
+Why:
+
+Most of the research and patent filings which is happening under the India banner is being done by mult-nationals like IBM etc. While it surely shores up the India numbers, the fact is that it does not changes the status quo of AI in the country, and also majority of these innovations never touch the soil of the country.
+
+Patting on the back for such rising figures is self-pleasure.
+
+What:
+
+    The report said that while major patent offices receiving patent filings in the AI field are France, Germany, the Republic of Korea and the UK, India is emerging as a new target for patent filing. The greatest number of patent applications are filed in the patent offices of U.S. and China, followed by Japan, South Korea, Germany, Australia and India.
+
+    The report noted that India was ranked eighth for first filings in 2015 and has enjoyed a high rate of annual growth during recent years (with an average of 33 per cent in the three years up to 2015).
+
+THE WORLD’S FASTEST SUPERCOMPUTER BREAKS AN AI RECORD
+
+Context:
+
+The supremacy in AI would be dominated by both the aspects of technology ie software and hardware. The winners would want to have best of both the worlds. After all, one needs extremely fast machines to work with peta/exabytes of data and of course to get the things rightly extracted from data, one needs smarter algorithms and smart applications.
+
+Why:
+
+It’s been after 5 years that US has snatched the fastest super-computing record from China, both the countries who have been fighting the AI supremacy battle. It would be interesting to see how China progresses further in this regard.
+
+What:
+
+    The record-setting project involved the world’s most powerful supercomputer, Summit, at Oak Ridge National Lab. The machine captured that crown in June last year, reclaiming the title for the US after five years of Chinatopping the list. As part of a climate research project, the giant computer booted up a machine-learning experiment that ran faster than any before.
+
+    Summit, which occupies an area equivalent to two tennis courts, used more than 27,000 powerful graphics processors in the project. It tapped their power to train deep-learning algorithms, the technology driving AI’s frontier, chewing through the exercise at a rate of a billion billion operations per second, a pace known in supercomputing circles as an exaflop.
+
+With data science, Rochester’s laser lab moves closer to controlled nuclear fusion
+
+Context:
+
+    Scientists have been working for decades to develop controlled nuclear fusion. Controlled nuclear fusion would improve the ability to evaluate the safety and reliability of the nation’s stockpile of nuclear weapons—in labs in lieu of actual test detonations. And ultimately, it could produce an inexhaustible supply of clean energy .
+
+Why:
+
+    Designing optimal fusion experiments requires accurately modeling all of the complex physical processes that occur during an implosion. One of the biggest handicaps has been the lack of accurate predictive models to show in advance how target specifications and laser pulse shapes might be altered to increase fusion energy yields. 
+
+What:
+
+    “We were inspired from advances in machine learning and data science over the last decade,” Gopalaswamy says. Adds Betti: “This approach bridges the gap between experiments and simulations to improve the predictive capability of the computer programs used in the design of experiments.”
+
+    The statistical analysis guided LLE scientists in altering the target specifications and temporal shape of the laser pulse used in the fusion experiments. The task required a concerted effort by LLE experimental physicists who set up the experiments, and theorists who develop the simulation codes. James Knauer, LLE senior scientist, led the experimental campaign.
+
+Engineers Program Marine Robots to Take Calculated Risks
+
+Context:
+
+Ocean is right next to our backyard, compared to space; but still we know very little about oceans. challenges have been many specially, considering the vagaries of the place, which requires very costly apparatus and vehicles to explore and operate.
+
+Loss of such vehicles could mean not only huge setbacks in terms of project cost but also a big increase in gestation period.
+
+Why:
+
+Marine robots which can own on their own device the risk and rewards of exploring the treacherous parts of oceans, can ease a lot of mental burden of humans, who are charged with taking such decisions.
+
+However, the ‘Trade-Off Alogorithm’ needs to be tested comprehensively, before we can trust marine robots of their decisions about self-welfare.
+
+Even after billions of years of evolution, human brain is often find lacking in this regard. Algorithms have been just a few decades old.
+
+What:
+
+    MIT engineers have now developed an algorithm that lets AUVs weigh the risks and potential rewards of exploring an unknown region. For instance, if a vehicle tasked with identifying underwater oil seeps approached a steep, rocky trench, the algorithm could assess the reward level (the probability that an oil seep exists near this trench), and the risk level (the probability of colliding with an obstacle), if it were to take a path through the trench.  
+
+    “If we were very conservative with our expensive vehicle, saying its survivability was paramount above all, then we wouldn’t find anything of interest,” Ayton says. “But if we understand there’s a tradeoff between the reward of what you gather, and the risk or threat of going toward these dangerous geographies, we can take certain risks when it’s worthwhile.”
+
+Google releases dataset to help AI systems spot fake audio recordings
+
+Context:
+
+Advances in Machine Learning and Deep Learning means that there are new ways being discovered to produce not only fake audio recordings but also video footage, with lip synced audio. It is elementary that these fake videos are produced with so much investment of time and computing money for nefarious reasons.
+
+These deep learned audio and video recordings are making the ‘fake news’ a bigger menace, while the technology was supposed to ease it.
+Why:
+
+Identifying the ways and means of how these fake audio and video footage is developed, is the only way to counter them, apart from their spread. Audio is paramount, because without it the video lacks the punch and is worthless.
+
+What:
+
+    “Over the last few years, there’s been an explosion of new research using neural networks to simulate a human voice. These models, including many developed at Google, can generate increasingly realistic, human-like speech,” Daisy Stanton, a software engineer at Google AI, wrote in a blog post.
+
+    “While the progress is exciting, we’re keenly aware of the risks this technology can pose if used with the intent to cause harm. … [That’s why] we’re taking action.” 
+
+France, HPE are building Europe's most powerful AI supercomputer
+
+Context:
+
+There are some unlikely hero countries in the AI world, which are often not counted when we talk about cutting edge technology. Along with Canada, France is one of those countries. Also, unlike the popular belief, the AI fight is not a duel anymore, with Europe leading the publication of most number of research papers.
+
+Why:
+
+France has it’s own geo-political reasons for being a fore-runner in the AI revolution. Off late it’s economy is not doing well and if it has to maintain relevance in world’s commerce and polity, it has to invest considerably in AI and Supercomputing.
+
+While the threat of yesterday years were the nukes, of coming years, AI is going to be ultimate baton, which would allow the nations to command respect and authority.
+
+What:
+
+    France is building a supercomputer designed to handle AI workloads, as well as traditional high-performance computing applications.
+
+    It may well be the largest AI supercomputer in Europe, and one that points to future configurations in high-performance computing (HPC). The just announced Hewlett Packard Enterprise (HPE) system, named Jean Zay after a World War II French resistance hero, is expected to be put into production in October 2019.
+
+    The AI supercomputer will rely on a high number of graphics processing units (GPUs), as well as flash storage. The Jean Zay also gets France closer to becoming a leader in AI research and industrial development, a goal that the French government set last year.
